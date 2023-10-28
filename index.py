@@ -16,7 +16,7 @@ files = os.listdir(cwd)  # Get all the files in that directory
 downloads = os.listdir('.\downloads')
 
 # whitelist, here your user id
-whitelist = [657312624]
+whitelist = [id]
 # username of your bot in telegram (e.g. sticker_creator_29bot)
 bot_link = 'any_bot' 
 # title for stickerpacks
