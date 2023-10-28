@@ -18,12 +18,12 @@ downloads = os.listdir('.\downloads')
 # whitelist, here your user id
 whitelist = [657312624]
 # username of your bot in telegram (e.g. sticker_creator_29bot)
-bot_link = 'stickery4ubot' 
+bot_link = 'any_bot' 
 # title for stickerpacks
 packs_title = '@username text 🎈'
 
 # init bot
-TOKEN = "6058153748:AAGTSXQHHyaXNo-9WXAFR87rFFdKeHJE9fo"
+TOKEN = "YOUR TOKEN HERE"
 bot = Bot(TOKEN)
 dp = Dispatcher(bot=bot)
 
