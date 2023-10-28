@@ -11,3 +11,4 @@ How to use:
 5) Profit!
 
 Let me know, is there are any issues
+(Code optimization here sucks (sleep while downloading is matter!!!))
