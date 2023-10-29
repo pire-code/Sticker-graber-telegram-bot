@@ -10,11 +10,6 @@ from subprocess import check_output
 from concurrent.futures import as_completed, ThreadPoolExecutor
 import time
 
-# actually dont really matter
-cwd = os.getcwd()  # Get the current working directory (cwd)
-files = os.listdir(cwd)  # Get all the files in that directory
-downloads = os.listdir('.\downloads')
-
 # whitelist, here your user id
 whitelist = [id]
 # username of your bot in telegram (e.g. sticker_creator_29bot)
